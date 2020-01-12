@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.DynamicPro;
 //Dynamic programmming
 public class CountChange {
     public int coinChange(int[] coins, int amount) {
